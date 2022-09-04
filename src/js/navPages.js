@@ -13,3 +13,7 @@ function bebidas() {
 function outros() {
     window.location.href = "src/pages/outros.html";
 }
+
+function voltarIndex() {
+    window.location.href = "../../index.html";
+}
