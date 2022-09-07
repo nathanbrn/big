@@ -21,29 +21,3 @@ document.querySelectorAll(".items").forEach( function(button) {
   });
 
 });
-
-document.querySelectorAll(".bebidas").forEach( function(button) {
-
-    
-    button.addEventListener("click", function(event) {
-    const pages = event.target || event.srcElement;
-    const id = pages.id;
-    
-    window.location.href = "./"+id+".html";
-
-  });
-
-});
-
-document.querySelectorAll(".salgados").forEach( function(button) {
-
-    
-    button.addEventListener("click", function(event) {
-    const pages = event.target || event.srcElement;
-    const id = pages.id;
-    
-    window.location.href = "./"+id+".html";
-
-  });
-
-});
