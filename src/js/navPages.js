@@ -1,9 +1,13 @@
 function voltarIndex() {
     window.location.href = "../../index.html";
-}
+};
+
+function voltarTelaBebidas() {
+    window.location.href = "./bebidas.html"
+};
 
 
-document.querySelectorAll("button").forEach( function(button) {
+document.querySelectorAll(".items").forEach( function(button) {
 
     
     button.addEventListener("click", function(event) {
@@ -18,21 +22,28 @@ document.querySelectorAll("button").forEach( function(button) {
 
 });
 
+document.querySelectorAll(".bebidas").forEach( function(button) {
 
+    
+    button.addEventListener("click", function(event) {
+    const pages = event.target || event.srcElement;
+    const id = pages.id;
+    
+    window.location.href = "./"+id+".html";
 
-// function salgados() {
-//     window.location.href = "src/pages/salgados.html";
-// }
-// function sanduiches() {
-//     window.location.href = "src/pages/sanduiches.html";
-// }
-// function petiscos() {
-//     window.location.href = "src/pages/petiscos.html";
-// }
-// function bebidas() {
-//     window.location.href = "src/pages/bebidas.html";
-// }
-// function outros() {
-//     window.location.href = "src/pages/outros.html";
-// }
+  });
 
+});
+
+document.querySelectorAll(".salgados").forEach( function(button) {
+
+    
+    button.addEventListener("click", function(event) {
+    const pages = event.target || event.srcElement;
+    const id = pages.id;
+    
+    window.location.href = "./"+id+".html";
+
+  });
+
+});
