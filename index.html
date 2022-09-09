@@ -16,11 +16,20 @@
       <img src="src/images/logo.png" alt="">
       <h1>Cardápio</h1>
     </div>
-    <div class="pagamento">
+    <div onclick="abrirPop()" class="pagamento">
       <img src="src/images/pagamento.png" alt="">
       <h2>Pague aqui!</h2>
     </div>
   </header>
+
+  <div class="pop-up" id="pop-up">
+    <div onclick="fechar()" class="fechar_button">
+      <img src="https://www.cataventouniformes.com.br/wp-content/uploads/2019/07/Bot%C3%A3o-de-Fechar.png" alt="">
+    </div>
+    <div class="container_button">
+      <button class="link_pix">Link PIX ➤</button>
+    </div>
+  </div>
 
   <main>
     <button class="items" id="salgados">Salgados</button>
@@ -32,4 +41,5 @@
 </body>
 
 <script src="src/js/navPages.js"></script>
+<script src="src/js/popUp.js"></script>
 </html>
