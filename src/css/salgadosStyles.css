@@ -44,6 +44,7 @@ flex-direction: column;
     width: 60%;
     border: 1px solid rgba(1, 1, 1, 0.4);
     padding: 5px;
+    margin-left: 10px;
 }
 
 .content h2 {
