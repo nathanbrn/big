@@ -49,6 +49,7 @@ flex-direction: column;
 .content h2 {
     margin-bottom: 5px;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 .content p {
