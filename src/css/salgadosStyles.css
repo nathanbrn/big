@@ -1,52 +1,63 @@
 *{
-    margin: 0;
-    padding: 0;
-    }
-    
-    body {
-    height: 100vh;
-    width: 100vw;
-    }
-    
-    .botao_voltar button {
-    color: #111;
-    font-size: 30px;
-    margin: 5px 10px;
-    background-color: transparent;
-    border: 0;
-    cursor: pointer;
-    transition: 0.4s ease-in-out;
-    position: fixed;
-    }
-    
-    .botao_voltar button:hover {
-    font-size: 100px;
-    }
-    
-    main {
-    width: 100%;
-    height: 130vh;
-    background: url(../images/salgados.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-y: 100px;
+margin: 0;
+padding: 0;
+}
+
+body {
+height: 100vh;
+width: 100vw;
+}
+
+.botao_voltar button {
+color: #111;
+font-size: 30px;
+margin: 5px 10px;
+background-color: transparent;
+border: 0;
+cursor: pointer;
+transition: 0.4s ease-in-out;
+position: fixed;
+}
+
+.botao_voltar button:hover {
+font-size: 100px;
+}
+
+main {
+width: 100%;
+height: 130vh;
+background: #fff;
+display: flex;
+flex-direction: column;
+}
+
+.container_produto {
+    width: 80%;
     display: flex;
-    flex-direction: column;
-    gap: 30px;
-    }
+    justify-content: space-around;
+    margin: 10px;
+    padding: 12px;
+    gap: 10px;
+}
 
-    /* .pasteis_menu {
-        display: flex;
-        flex-direction: column;
-        margin: 10px auto;
-        justify-content: space-around;
-        padding: 15px;
+.content {
+    width: 60%;
+    border: 1px solid rgba(1, 1, 1, 0.4);
+    padding: 5px;
+}
 
-    }
+.content h2 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
 
-    .pasteis_menu p {
-        color: #fff;
-        text-transform: uppercase;
-        font-size: 18px;
-        font-weight: 300;
-    } */
+.content p {
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(1, 1, 1, 0.6);
+}
+
+.preco {
+    font-size: 20px;
+    font-weight: 600;
+}
