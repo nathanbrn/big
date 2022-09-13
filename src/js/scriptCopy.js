@@ -14,4 +14,4 @@ function copiarTexto(e) {
 setTimeout(() => {
     buttonCopy.classList.remove('ativo');
     buttonCopy.innerText = 'Copiar chave PIX ➣';
-}, 5000);
+}, 4000);
