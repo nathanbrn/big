@@ -6,7 +6,7 @@ function abrirPop() {
     const popBack = document.getElementById('popBack');
     popBack.style.display = 'block';
 
-}
+};
 
 function fechar() {
 
@@ -15,6 +15,10 @@ function fechar() {
 
     const popBack = document.getElementById('popBack');
     popBack.style.display = 'none';
+
+    const link = document.querySelector('.ativo');
+    link.classList.remove('ativo');
+    link.innerHTML = 'Copiar chave PIX ➣';
   
-}
+};
 
