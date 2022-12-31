@@ -1,0 +1,446 @@
+{
+    "products": [
+        {
+            "salgados": [
+                {
+                    "pasteis": [
+                        {
+                            "name": "PASTEL DE CARNE",
+                            "price": 5.00
+                        },
+                        {
+                            "name": "PASTEL DE FRANGO",
+                            "price": 5.00
+                        },
+                        {
+                            "name": "PASTEL MISTO",
+                            "price": 5.00
+                        },
+                        {
+                            "name": "PASTEL DE QUEIJO",
+                            "price": 5.00
+                        },
+                        {
+                            "name": "PASTEL DE CARNE DE SOL",
+                            "price": 5.50
+                        },
+                        {
+                            "name": "PASTEL DE CARNE DE SOL COM CHEEDAR",
+                            "price": 6.50
+                        },
+                        {
+                            "name": "PASTEL DE CARNE COM CHEDDAR",
+                            "price": 6.00
+                        },
+                        {
+                            "name": "PASTEL DE FRANGO COM CHEDDAR",
+                            "price": 6.00
+                        },
+                        {
+                            "name": "PASTEL DE FRANGO COM CATUPIRY",
+                            "price": 6.00
+                        },
+                        {
+                            "name": "PASTEL DE CARNE COM CATUPIRY",
+                            "price": 6.00
+                        },
+                        {
+                            "name": "PASTEL DE CARNE DE SOL COM CATUPIRY",
+                            "price": 6.50
+                        },
+                        {
+                            "name": "PASTEL SABOR PIZZA",
+                            "price": 7.00
+                        },
+                        {
+                            "name": "PASTEL DE FRANGO COM CHEDDAR E CATUPIRY",
+                            "price": 7.00
+                        },
+                        {
+                            "name": "PASTEL DE CARNE COM CHEDDAR E CATUPIRY",
+                            "price": 7.00
+                        },
+                        {
+                            "name": "PASTEL DE CARNE DE SOL COM CHEDDAR E CATUPIRY",
+                            "price": 7.50
+                        }
+                    ]
+                },
+                {
+                    "coxinhas": [
+                        {
+                            "name": "COXINHA",
+                            "price": 4.00
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sanduiches": [
+                {
+                    "name": "BIG KIDS",
+                    "price": 7.00,
+                    "ingredients": "pão brioche, mussarela e presunto."
+                },
+                {
+                    "name": "BIG BURGUER",
+                    "price": 11.00,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, ovo e molho especial."
+                },
+                {
+                    "name": "BIG SALADA",
+                    "price": 12.00,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebvola, ovo e molho especial."
+                },
+                {
+                    "name": "BIG BACON",
+                    "price": 13.00,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon e molho especial."
+                },
+                {
+                    "name": "BIG CALABRESA",
+                    "price": 13.00,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, calabresa e molho especial."
+                },
+                {
+                    "name": "BIG BACON/CHEDDAR",
+                    "price": 14.50,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon, cheddar e molho especial."
+                },
+                {
+                    "name": "BIG SUÍNO",
+                    "price": 13.00,
+                    "ingredients": "pão brioche, hambúrguer suíno, mussarela, alface, tomate, cebola, bacon, molho barbecue e molho especial."
+                },
+                {
+                    "name": "BIG FRANGO",
+                    "price": 13.00,
+                    "ingredients": "pão brioche, hambúrguer de frango, mussarela, alface, tomate, cebola, bacon e molho especial."
+                },
+                {
+                    "name": "BIG X",
+                    "price": 17.00,
+                    "ingredients": "pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon, calabresa, ovo, cheddar e molho especial."
+                },
+                {
+                    "name": "BIG DUPLO BACON/CHEDDAR",
+                    "price": 18.50,
+                    "ingredients": "pão brioche, 2 hambúrgueres bovinos, alface, tomate, cebola, 2 camadas de bacon, 2 camadas de cheddar e molho especial."
+                },
+                {
+                    "name": "BIG ÁRABE",
+                    "price": 18.00,
+                    "ingredients": "pão árabe, frango ou carne, queijo ou mussarela, tomate, alface, cebola e calabresa refolgados no molho barbecue."
+                },
+                {
+                    "name": "BIG FIT",
+                    "price": 13.00,
+                    "ingredients": "pão integral, frango cremoso light, ovo, presunto de peru, tomate, cebola e alface."
+                }
+            ]
+        },
+        {
+            "pestiscos": [
+                {
+                    "batatas": [
+                        {
+                            "name": "BATATA FRITA",
+                            "price": 10.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM QUEIJO",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM BACON",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM CALABRESA",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM CHEDDAR",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM BACON E CHEDDAR",
+                            "price": 13.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM BACON E QUEIJO COALHO",
+                            "price": 13.00
+                        },
+                        {
+                            "name": "BATATA FRITA COM BACON E CALABRESA",
+                            "price": 14.00
+                        },
+                        {
+                            "name": "BATATA COMPLETA",
+                            "price": 16.00
+                        }
+                    ],
+                    "calabresas": [
+                        {
+                            "name": "CABABRESA ACEBOLADA",
+                            "price": 14.00
+                        }
+                    ],
+                    "macaxeiras": [
+                        {
+                            "name": "MACAXEIRA FRITA",
+                            "price": 10.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM QUEIJO",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM BACON",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM CALABRESA",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM CHEDDAR",
+                            "price": 12.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM BACON E CHEDDAR",
+                            "price": 13.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM BACON E QUEIJO COALHO",
+                            "price": 13.00
+                        },
+                        {
+                            "name": "MACAXEIRA FRITA COM BACON E CALABRESA",
+                            "price": 14.00
+                        }
+                    ],
+                    "nuggets": [
+                        {
+                            "name": "NUGGETS",
+                            "price": 12.00
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "bebidas":[
+                {
+                    "cervejas": [
+                        {
+                            "name": "CERVEJA LITRINHO ITAIPAVA",
+                            "price": 3.50
+                        },
+                        {
+                            "name": "CERVEJA LITRINHO SKOL",
+                            "price": 3.50
+                        },
+                        {
+                            "name": "CERVEJA HEINEKEN",
+                            "price": 7.00
+                        },
+                        {
+                            "name": "CERVEJA STELLA",
+                            "price": 7.00
+                        }
+                    ],
+                    "refrigerantes": [
+                        {
+                            "name": "REFRIGERANTE CAÇULINHA",
+                            "price": 2.50
+                        },
+                        {
+                            "name": "REFRIGERANTE LATA",
+                            "price": 3.50
+                        },
+                        {
+                            "name": "REFRIGERANTE 1L",
+                            "price": 6.50
+                        }
+                    ],
+                    "sucos_vitaminas": [
+                        {
+                            "name": "ABACAXI",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "ACABAXI COM HORTELÃ",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "ACEROLA",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "CAJÁ",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "GOIABA",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "GRAVIOLA",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "MANGA",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        },
+                        {
+                            "name": "MARACUJÁ",
+                            "priceSuco": 4.00,
+                            "priceVitamina": 5.00
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Iguarias": [
+                {
+                    "cuscuz": [
+                        {
+                            "name": "CUSCUZ COM CARNE DE SOL",
+                            "price": 7.50
+                        },
+                        {
+                            "name": "CUSCUZ COM FRANGO",
+                            "price": 7.00
+                        },
+                        {
+                            "name": "CUSCUZ COM CALABRESA E OVO",
+                            "price": 8.50
+                        },
+                        {
+                            "name": "CUSCUZ COM CANRE MOÍDA",
+                            "price": 7.50
+                        },
+                        {
+                            "name": "CUSCUZ COM OPÇÃO DE 2 RECHEIOS",
+                            "price": 8.50
+                        },
+                        {
+                            "name": "CUSCUZ COM OPÇÃO DE 3 RECHEIOS",
+                            "price": 9.50
+                        },
+                        {
+                            "name": "CUSCUZ COM OPÇÃO DE 4 RECHEIOS",
+                            "price": 11.00
+                        },
+                        {
+                            "name": "CUSCUZ NA BARCA",
+                            "price": 16.00,
+                            "ingredients": "carne de sol, carne moída, calabresa, frango, ovo, queijo, cheiro verde, tomate, cebola, manteiga e molho."
+                        },
+                        {
+                            "recheios": [
+                                "CARNE MOÍDA",
+                                "CARNE DE SOL",
+                                "FRANGO",
+                                "CALABRESA",
+                                "QUEIJO"
+                            ]
+                        }
+                    ],
+                    "tapiocas": [
+                        {
+                            "name": "TAPIOCA COM MANTEIGA",
+                            "price": 3.50
+                        },
+                        {
+                            "name": "TAPIOCA COM OVO",
+                            "price": 3.50
+                        },
+                        {
+                            "name": "TAPIOCA DE QUEIJO",
+                            "price": 4.50
+                        },
+                        {
+                            "name": "TAPIOCA DE FRANGO",
+                            "price": 4.50
+                        },
+                        {
+                            "name": "TAPIOCA DE OVO E QUEIJO",
+                            "price": 6.00
+                        },
+                        {
+                            "name": "TAPIOCA COM PRESUNTO E MUSSARELA",
+                            "price": 6.50
+                        },
+                        {
+                            "name": "TAPIOCA DE CARNE DE SOL",
+                            "price": 5.50
+                        },
+                        {
+                            "name": "TAPIOCA COM DE CARNE DE SOL COM QUEIJO",
+                            "price": 7.00
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "acais": [
+                {
+                    "names": [
+                        "AÇAI TRADICIONAL",
+                        "CREME DE NINHO",
+                        "ENERGÉTICO DE CASTANHA COM AMENDOIM",
+                        "CREME DE OVOMALTINE"
+                    ]
+                },
+                {
+                    "adicionais": [
+                        "CASTANHA DE CAJU",
+                        "OVOMATINE",
+                        "LEITE NINHO",
+                        "JUJUBA",
+                        "DISQUETE",
+                        "FARINHA LÁCTEA",
+                        "GRANULADO",
+                        "GOTAS DE CHOCOLATE",
+                        "AMENDOIM",
+                        "CEREJA",
+                        "GRANOLA",
+                        "TUBETES",
+                        "CHOCOBALL",
+                        "PAÇOQUITA"
+                    ]
+                },
+                {
+                    "coberturas": [
+                        "CHOCOLATE",
+                        "MORANGO",
+                        "KIWI",
+                        "TITTI FRUTTI",
+                        "CARAMELO",
+                        "LEITE CONDENSADO",
+                        "NUTELLA"
+                    ]
+                },
+                {
+                    "frutas": [
+                        "BANANAS",
+                        "MORANGO",
+                        "KIWI"
+                    ]
+                }
+            ]
+        }
+    ]
+}
