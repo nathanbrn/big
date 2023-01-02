@@ -48,7 +48,6 @@ main {
 
 .item {
     display: flex;
-    font-family: cursive;
     text-transform: uppercase;
     margin: 10px 10px;
 }
