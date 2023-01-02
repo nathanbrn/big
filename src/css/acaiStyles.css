@@ -1,0 +1,72 @@
+body {
+    background-color: #111;
+    color: #fff;
+}
+
+.botao_voltar button {
+    color: #fff;
+    font-size: 50px;
+    margin: 10px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+    position: fixed;
+}
+
+.botao_voltar button:hover {
+    color: #fafafaaa;
+    font-size: 70px;
+}
+
+main {
+
+    width: 100%;
+    height: 100%;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    padding: 10px;
+}
+
+.cabecalho {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 10px auto;
+}
+
+.cabecalho h1 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.acais {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: 20px auto;
+}
+
+.acais ul li {
+    margin-bottom: 8px;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.adicionais, .coberturas, .frutas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 10px 10px 10px 30px;
+}
+
+
+.adicionais ul li, .coberturas ul li, .frutas ul li {
+    margin-top: 8px;
+}

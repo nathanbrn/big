@@ -6,15 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cardápio</title>
 
-  <link rel="stylesheet" href="../css/sanduicheStyles.css">
+  <link rel="stylesheet" href="../css/globalStyles.css">
+  <link rel="stylesheet" href="../css/itemStyles.css">
+  <link rel="stylesheet" href="../css/responsive.css">
 
   <link rel="shortcut icon" href="../images/logo.png" type="image/x-icon">
 
   
-  <script src="./src/js/requisitionProducts.js"></script>
-  <script src="./src/js/products.js"></script>
 </head>
 <body>
+
   <main>
     <div class="botao_voltar">
       <button class="items" id="index">
@@ -26,12 +27,36 @@
       <h1>Sanduíches</h1>
     </div>
 
-    <div class="menus">
-      <div id="menu_left" class="menu_left">
+    <div class="menu">
+      <div class="container_item">
         <section class="item">
           <div class="titulo_descricao">
-            <h2 class="title">x-bacon</h2>
-            <p class="descricao">Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+            <h2 class="title">BIG KIDS</h2>
+            <p class="descricao">pão brioche, mussarela e presunto. </p>
+          </div>
+          <div class="preco">
+            <p>7<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG BURGUER</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, ovo e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>11<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG SALADA</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebvola, ovo e molho especial. </p>
           </div>
           <div class="preco">
             <p>12<span>,00</span></p>
@@ -39,14 +64,110 @@
         </section>
       </div>
   
-      <div id="menu_right" class="menu_right">
+      <div class="container_item">
         <section class="item">
           <div class="titulo_descricao">
-            <h2 class="title">x-bacon</h2>
-            <p class="descricao">Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+            <h2 class="title">BIG BACON</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon e molho especial. </p>
           </div>
           <div class="preco">
-            <p>12<span>,00</span></p>
+            <p>13<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG CALABRESA</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, calabresa e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>13<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG BACON/CHEDDAR</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon, cheddar e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>14<span>,50</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG SUÍNO</h2>
+            <p class="descricao">pão brioche, hambúrguer suíno, mussarela, alface, tomate, cebola, bacon, molho barbecue e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>13<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG FRANGO</h2>
+            <p class="descricao">pão brioche, hambúrguer de frango, mussarela, alface, tomate, cebola, bacon e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>13<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG X</h2>
+            <p class="descricao">pão brioche, hambúrguer bovino, mussarela, alface, tomate, cebola, bacon, calabresa, ovo, cheddar e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>17<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG DUPLO BACON/CHEDDAR</h2>
+            <p class="descricao">pão brioche, 2 hambúrgueres bovinos, alface, tomate, cebola, 2 camadas de bacon, 2 camadas de cheddar e molho especial. </p>
+          </div>
+          <div class="preco">
+            <p>18<span>,50</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG ÁRABE</h2>
+            <p class="descricao">pão árabe, frango ou carne, queijo ou mussarela, tomate, alface, cebola e calabresa refolgados no molho barbecue. </p>
+          </div>
+          <div class="preco">
+            <p>18<span>,00</span></p>
+          </div>
+        </section>
+      </div>
+  
+      <div class="container_item">
+        <section class="item">
+          <div class="titulo_descricao">
+            <h2 class="title">BIG FIT</h2>
+            <p class="descricao">pão integral, frango cremoso light, ovo, presunto de peru, tomate, cebola e alface. </p>
+          </div>
+          <div class="preco">
+            <p>13<span>,00</span></p>
           </div>
         </section>
       </div>

@@ -1,0 +1,13 @@
+@media(max-width:500px){
+
+    main {
+        height: 150%;
+    }
+    .menu{
+        grid-template-columns: 1fr;
+    }
+    .acais {
+        width: 300px;
+    }
+
+}
