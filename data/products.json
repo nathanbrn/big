@@ -3,76 +3,68 @@
         {
             "salgados": [
                 {
-                    "pasteis": [
-                        {
-                            "name": "PASTEL DE CARNE",
-                            "price": 5.00
-                        },
-                        {
-                            "name": "PASTEL DE FRANGO",
-                            "price": 5.00
-                        },
-                        {
-                            "name": "PASTEL MISTO",
-                            "price": 5.00
-                        },
-                        {
-                            "name": "PASTEL DE QUEIJO",
-                            "price": 5.00
-                        },
-                        {
-                            "name": "PASTEL DE CARNE DE SOL",
-                            "price": 5.50
-                        },
-                        {
-                            "name": "PASTEL DE CARNE DE SOL COM CHEEDAR",
-                            "price": 6.50
-                        },
-                        {
-                            "name": "PASTEL DE CARNE COM CHEDDAR",
-                            "price": 6.00
-                        },
-                        {
-                            "name": "PASTEL DE FRANGO COM CHEDDAR",
-                            "price": 6.00
-                        },
-                        {
-                            "name": "PASTEL DE FRANGO COM CATUPIRY",
-                            "price": 6.00
-                        },
-                        {
-                            "name": "PASTEL DE CARNE COM CATUPIRY",
-                            "price": 6.00
-                        },
-                        {
-                            "name": "PASTEL DE CARNE DE SOL COM CATUPIRY",
-                            "price": 6.50
-                        },
-                        {
-                            "name": "PASTEL SABOR PIZZA",
-                            "price": 7.00
-                        },
-                        {
-                            "name": "PASTEL DE FRANGO COM CHEDDAR E CATUPIRY",
-                            "price": 7.00
-                        },
-                        {
-                            "name": "PASTEL DE CARNE COM CHEDDAR E CATUPIRY",
-                            "price": 7.00
-                        },
-                        {
-                            "name": "PASTEL DE CARNE DE SOL COM CHEDDAR E CATUPIRY",
-                            "price": 7.50
-                        }
-                    ]
+                    "name": "PASTEL DE CARNE",
+                    "price": 5.00
                 },
                 {
-                    "coxinhas": [
-                        {
-                            "name": "COXINHA",
-                            "price": 4.00
-                        }
-                    ]
+                    "name": "PASTEL DE FRANGO",
+                    "price": 5.00
+                },
+                {
+                    "name": "PASTEL MISTO",
+                    "price": 5.00
+                },
+                {
+                    "name": "PASTEL DE QUEIJO",
+                    "price": 5.00
+                },
+                {
+                    "name": "PASTEL DE CARNE DE SOL",
+                    "price": 5.50
+                },
+                {
+                    "name": "PASTEL DE CARNE DE SOL COM CHEEDAR",
+                    "price": 6.50
+                },
+                {
+                    "name": "PASTEL DE CARNE COM CHEDDAR",
+                    "price": 6.00
+                },
+                {
+                    "name": "PASTEL DE FRANGO COM CHEDDAR",
+                    "price": 6.00
+                },
+                {
+                    "name": "PASTEL DE FRANGO COM CATUPIRY",
+                    "price": 6.00
+                },
+                {
+                    "name": "PASTEL DE CARNE COM CATUPIRY",
+                    "price": 6.00
+                },
+                {
+                    "name": "PASTEL DE CARNE DE SOL COM CATUPIRY",
+                    "price": 6.50
+                },
+                {
+                    "name": "PASTEL SABOR PIZZA",
+                    "price": 7.00
+                },
+                {
+                    "name": "PASTEL DE FRANGO COM CHEDDAR E CATUPIRY",
+                    "price": 7.00
+                },
+                {
+                    "name": "PASTEL DE CARNE COM CHEDDAR E CATUPIRY",
+                    "price": 7.00
+                },
+                {
+                    "name": "PASTEL DE CARNE DE SOL COM CHEDDAR E CATUPIRY",
+                    "price": 7.50
+                },
+                {
+                    "name": "COXINHA",
+                    "price": 4.00
                 }
             ]
         },
