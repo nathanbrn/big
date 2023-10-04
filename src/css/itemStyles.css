@@ -120,3 +120,12 @@ main {
     width: 100%;
     color: #fff;
 }
+
+.category_refri {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #fff;
+}
